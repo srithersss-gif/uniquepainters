@@ -91,7 +91,7 @@ export default function Home() {
       {/* ── 1. FULL-BLEED HERO VIDEO (ALL EDGES FULL-BLEED) ─────────────── */}
       <section aria-label="Unique Painters Video Showcase" style={{ width: '100vw', maxWidth: '100%', height: 'calc(100vh - var(--header-h, 72px))', marginTop: 'var(--header-h, 72px)', display: 'flex', background: '#000', overflow: 'hidden' }}>
         <video
-          src="/videos/WhatsApp%20Video%202026-10-03%20at%206.31.03%20AM.mp4"
+          src="/videos/hero_video.mp4"
           autoPlay
           loop
           muted
